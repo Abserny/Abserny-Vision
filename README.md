@@ -1,6 +1,6 @@
 # AbserneyVision
 
-A lightweight custom object detection model built for the [Abserny](https://github.com/abserny) assistive vision app. Designed to run on-device with no internet connection, helping visually impaired users identify objects in their home and office environment.
+A lightweight custom object detection model built for the [Abserny](https://github.com/abserny/abserny-mobile) assistive vision app. Designed to run on-device with no internet connection, helping visually impaired users identify objects in their home and office environment.
 
 ## What it detects
 
